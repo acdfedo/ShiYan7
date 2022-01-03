@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/software/Android/AndroidStudioProjects/ShiYan7/app/src/main/res/drawable/btn_shape.xml" value="0.2574074074074074" />
+        <entry key="..\:/software/Android/AndroidStudioProjects/ShiYan7/app/src/main/res/drawable/btn_shape1.xml" value="0.2574074074074074" />
         <entry key="..\:/software/Android/AndroidStudioProjects/ShiYan7/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/software/Android/AndroidStudioProjects/ShiYan7/app/src/main/res/layout/rightmenu_corn.xml" value="0.1793478260869565" />
+        <entry key="..\:/software/Android/AndroidStudioProjects/ShiYan7/app/src/main/res/layout/rightmenu_dice.xml" value="0.1793478260869565" />
+        <entry key="..\:/software/Android/AndroidStudioProjects/ShiYan7/app/src/main/res/layout/rightmenu_draw.xml" value="0.1793478260869565" />
         <entry key="..\:/software/Android/AndroidStudioProjects/ShiYan7/app/src/main/res/layout/test.xml" value="0.1793478260869565" />
       </map>
     </option>
