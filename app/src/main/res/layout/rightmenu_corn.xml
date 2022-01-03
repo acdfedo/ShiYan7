@@ -65,13 +65,18 @@
             android:textColor="#AD5A5A"
             android:textSize="20dp"
             android:textStyle="bold"
-            android:id="@+id/dice_DefineText"
-            android:layout_width="wrap_content"
+            android:layout_weight="4"
+            android:layout_width="0dp"
             android:layout_height="match_parent"/>
         <ImageView
-            android:src="@drawable/star"
-            android:layout_width="35dp"
+            android:src="@drawable/sikao"
+            android:layout_weight="1"
+            android:layout_width="0dp"
             android:layout_height="match_parent"/>
+        <!--       <ImageView-->
+        <!--           android:src="@drawable/star"-->
+        <!--           android:layout_width="35dp"-->
+        <!--           android:layout_height="match_parent"/>-->
     </LinearLayout>
     <!--    正面代表的事件-->
     <LinearLayout
